@@ -2,4 +2,7 @@
 
 main(){
     printf("watafa");
+    while(1){
+        printf("watafa");
+    }
 }
